@@ -16,13 +16,13 @@ Nosso projeto consiste em [DESCRIÇÃO DO PROJETO E NOSSOS OBJETIVOS]
 
 <br>
 
-<h3> 🛠️ Tecnologias utilizadas até o momento: </h3>
+<h3> 🧰 Tecnologias utilizadas até o momento: </h3>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=A2999E">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&color=A2999E"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=A2999E"/>
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=A2999E"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=e60023">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&color=e60023"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023"/>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=e60023"/>
 
     
 </div>
@@ -39,7 +39,6 @@ Nosso projeto consiste em [DESCRIÇÃO DO PROJETO E NOSSOS OBJETIVOS]
 
 <h2> 🎯 MVP </h2>
 <h4> Este é O MVP do produto: </h4>
-<img src=""/>
 
 <br>
 
@@ -47,10 +46,10 @@ Nosso projeto consiste em [DESCRIÇÃO DO PROJETO E NOSSOS OBJETIVOS]
 
 | Sprint |   Início   |  Entrega   |                                      Relatório                                      | Status |
 | :----: | :--------: | :--------: | :---------------------------------------------------------------------------------: | :----: |
-|   01   | 04/09/2023 | 24/09/2023 | <a href=""                                                        > Relatório </a>  |    ⏳   |
-|   02   | 25/09/2023 | 15/10/2023 | <a href=""                                                        > Relatório </a>  |    ⏳   |
-|   03   | 16/10/2023 | 05/11/2023 | <a href=""                                                        > Relatório </a>  |    ⏳   |
-|   04   | 06/11/2023 | 26/11/2023 | <a href=""                                                        > Relatório </a>  |    ⏳   |
+|   01   | 04/09/2023 | 24/09/2023 | ---                                                                                 |    -    |
+|   02   | 25/09/2023 | 15/10/2023 | ---                                                                                 |    -    |
+|   03   | 16/10/2023 | 05/11/2023 | ---                                                                                 |    -    |
+|   04   | 06/11/2023 | 26/11/2023 | ---                                                                                 |    -    |
 
 <br>
 
@@ -63,7 +62,7 @@ Nosso projeto consiste em [DESCRIÇÃO DO PROJETO E NOSSOS OBJETIVOS]
 
 <br>
 
-<h2> :handshake: Equipe </h2>
+<h2> 👨‍💻 Equipe </h2>
     
 <table>
     <tr>
@@ -77,57 +76,57 @@ Nosso projeto consiste em [DESCRIÇÃO DO PROJETO E NOSSOS OBJETIVOS]
           <td> <img src="https://avatars.githubusercontent.com/u/110743347?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
           <td> Scrum Master </td>
           <td> Letícia Helena de Oliveira Carvalho </td>
-          <td> <a href="https://www.linkedin.com/in/letícia-helena-carvalho"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=846A6A'/> </a> </td>
-          <td> <a href="https://github.com/leticiacarvalho04"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=846A6A'/> </a> </td>
+          <td> <a href="https://www.linkedin.com/in/letícia-helena-carvalho"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
+          <td> <a href="https://github.com/leticiacarvalho04"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
     <tr>
         <td><img src="https://avatars.githubusercontent.com/u/126176991?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Product Owner </td>
         <td> Felipe Gabriel Vieira </td>
-        <td> <a href="https://www.linkedin.com/in/velipefieira/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=846A6A'/> </a> </td>
-        <td> <a href="https://github.com/velipefieira"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=846A6A'/> </a> </td>
+        <td> <a href="https://www.linkedin.com/in/velipefieira/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
+        <td> <a href="https://github.com/velipefieira"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/104635440?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Scrum Team </td>
         <td> Caio Rodrigues de Almeida </td>
-        <td> <a href="https://www.linkedin.com/in/caio-almeida-3693b5271/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=846A6A'/> </a> </td>
-        <td> <a href="https://github.com/Caio-Almeida4"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=846A6A'/> </a> </td>
+        <td> <a href="https://www.linkedin.com/in/caio-almeida-3693b5271/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
+        <td> <a href="https://github.com/Caio-Almeida4"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
   <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/37639392?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Scrum Team </td>
         <td> Iago Cardoso Souza </td>
-        <td> <a href="https://www.linkedin.com/in/iago-cardoso-315955194/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=846A6A'/> </a> </td>
-        <td> <a href="https://github.com/iagocpv"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=846A6A'/> </a> </td>
+        <td> <a href="https://www.linkedin.com/in/iago-cardoso-315955194/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
+        <td> <a href="https://github.com/iagocpv"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/125418833?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Scrum Team </td>
         <td> Laura Gabriel Gonçalves </td>
-        <td> <a href="https://www.linkedin.com/in/eulauragabriel"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=846A6A'/> </a> </td>
-        <td> <a href="https://github.com/eulauragabriel"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=846A6A'/> </a> </td>
+        <td> <a href="https://www.linkedin.com/in/eulauragabriel"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
+        <td> <a href="https://github.com/eulauragabriel"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/126177124?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Scrum Team </td>
         <td> Lívia Alves de Faria </td>
-        <td> <a href="https://www.linkedin.com/in/livialvs"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=846A6A'/> </a> </td>
-        <td> <a href="https://github.com/livialvs"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=846A6A'/> </a> </td>
+        <td> <a href="https://www.linkedin.com/in/livialvs"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
+        <td> <a href="https://github.com/livialvs"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/84729056?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Scrum Team </td>
         <td> Luiz Felipe dos Santos </td>
-        <td> <a href="https://www.linkedin.com/in/lfelipesant"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=846A6A'/> </a> </td>
-        <td> <a href="https://github.com/felipe-sant"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=846A6A'/> </a> </td>
+        <td> <a href="https://www.linkedin.com/in/lfelipesant"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
+        <td> <a href="https://github.com/felipe-sant"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
     <tr>
           <td> <img src="https://avatars.githubusercontent.com/u/125457676?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
           <td> Scrum Team </td>
           <td> Pedro Henrique de Souza </td>
-          <td> <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-128484214/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=846A6A'/> </a> </td>
-          <td> <a href="https://github.com/Pedryn"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=846A6A'/> </a> </td>
+          <td> <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-128484214/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
+          <td> <a href="https://github.com/Pedryn"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
       </tr>
 </table>
     
