@@ -46,19 +46,261 @@ Nosso projeto consiste em [DESCRIÇÃO DO PROJETO E NOSSOS OBJETIVOS]
 
 | Sprint |   Início   |  Entrega   |                                      Relatório                                      | Status |
 | :----: | :--------: | :--------: | :---------------------------------------------------------------------------------: | :----: |
-|   01   | 04/09/2023 | 24/09/2023 | ---                                                                                 |    -    |
+|   01   | 04/09/2023 | 24/09/2023 | ---                                                                                 |    ⏳    |
 |   02   | 25/09/2023 | 15/10/2023 | ---                                                                                 |    -    |
 |   03   | 16/10/2023 | 05/11/2023 | ---                                                                                 |    -    |
 |   04   | 06/11/2023 | 26/11/2023 | ---                                                                                 |    -    |
 
 <br>
 
+<h2> Épicos (Requisitos Funcionais) </h2>
+
+<table>
+    <tr>
+        <th> ID </th>
+        <th> Requisito </th>
+        <th> Prioridade </th>
+    </tr>
+    <tr>
+        <td> 33 </td>
+        <td> Realizar chamadas de serviço </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> Painel de chamadas em aberto </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 35 </td>
+        <td> Atendimento da chamada </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 36 </td>
+        <td> Cadastro de usuários </td>
+        <td> Média </td>
+    </tr>
+    <tr>
+        <td> 37 </td>
+        <td> Login no sistema </td>
+        <td> Média </td>
+    </tr>
+    <tr>
+        <td> 38 </td>
+        <td> Gerar relatórios analíticos </td>
+        <td> Baixa </td>
+    </tr>
+    <tr>
+        <td> 39 </td>
+        <td> Soluções para problemas comuns </td>
+        <td> Baixa </td>
+    </tr>
+</table>
+
+<h2> User Storys </h2>
+
+<table>
+    <tr>
+        <th> Épico ID </th>
+        <th> Story ID </th>
+        <th> Ator </th>
+        <th> Ação </th>
+        <th> Motivo </th>
+        <th> Prioridade </th>
+    </tr>
+    <tr>
+        <td> 33 </td>
+        <td> 31 </td>
+        <td> Cliente </td>
+        <td> Escolher o tema que melhor se encaixa com seu problema </td>
+        <td> Iniciar minha chamada de serviço </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 38 </td>
+        <td> 9 </td>
+        <td> Cliente </td>
+        <td> Ver soluções comuns que possam resolver meu problema </td>
+        <td> Agilizar o processo. </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 8 </td>
+        <td> Administrador </td>
+        <td> Acesso ao dados de cada chamada </td>
+        <td> Melhor gestão das chamadas </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 35 </td>
+        <td> 15 </td>
+        <td> Cliente </td>
+        <td> Visualizar minhas chamadas </td>
+        <td> Acompanhar o atendimento </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 35 </td>
+        <td> 10 </td>
+        <td> Atendente </td>
+        <td> Iniciar chamados por conta própria </td>
+        <td> Agilizar o atendimento </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 35 </td>
+        <td> 11 </td>
+        <td> Administrador </td>
+        <td> Atribuir atendente a uma chamada em aberto </td>
+        <td> Agilizar o atendimento </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 35 </td>
+        <td> 32 </td>
+        <td> Atendente </td>
+        <td> Abrir a thread de uma chamada em aberto </td>
+        <td> Comunicação com o cliente </td>
+        <td> Média </td>
+    </tr>
+    <tr>
+        <td> 36 </td>
+        <td> 7 </td>
+        <td> Administrador </td>
+        <td> Cadastrar usuários (todos os tipos) </td>
+        <td> Permitir o acesso de outras pessoas </td>
+        <td> Média </td>
+    </tr>
+    <tr>
+        <td> 36 </td>
+        <td> 6 </td>
+        <td> Usuário </td>
+        <td> Fazer login no sistema </td>
+        <td> Ter acesso a plataforma </td>
+        <td> Média </td>
+    </tr>
+    <tr>
+        <td> 37 </td>
+        <td> 40 </td>
+        <td> Cliente </td>
+        <td> Cadastro de cliente </td>
+        <td> Ter acesso a plataforma </td>
+        <td> Média </td>
+    </tr>
+    <tr>
+        <td> 39 </td>
+        <td> 14 </td>
+        <td> Administrador </td>
+        <td> Gerar relatórios analíticos </td>
+        <td> Buscar informações pertinentes, como mapear temas ou horários mais comuns das chamadas </td>
+        <td> Baixa </td>
+    </tr>
+</table>
+    
 <h2> 📜 Backlog Total </h2>
-
-| SPRINTS |                 TAREFAS                 |                                                     DESCRIÇÃO                                                     | STATUS |
-| :-----: | :-------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :----: |
-|    1    | ---                                     | ---                                                                                                               |   ❌  |
-
+<table>
+    <tr>
+        <th> Épico ID </th>
+        <th> Story ID </th>
+        <th> Tarefa </th>
+        <th> Status </th>
+        <th> Prioridade </th>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> Wireframe do Produto </td>
+        <td> ✔️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> Modelo de dados </td>
+        <td> ✔️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> Diagrama de classes </td>
+        <td> ✔️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 33 </td>
+        <td> 31 </td>
+        <td> Forms para cliente preencher seus dados de contato  </td>
+        <td> ✖️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 33 </td>
+        <td> 31 </td>
+        <td> Sessão para seleção de tema  </td>
+        <td> ✖️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 8 </td>
+        <td> Painel de chamadas  </td>
+        <td> ✖️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 8 </td>
+        <td> Detalhes da chamada  </td>
+        <td> ✖️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 8 </td>
+        <td> Painel de chamadas (Atendente e Administrador </td>
+        <td> ✖️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 15 </td>
+        <td> Painel de chamadas (Cliente) </td>
+        <td> ✖️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 35 </td>
+        <td> 15 </td>
+        <td> Detalhes da chamada (Cliente)  </td>
+        <td> ✖️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 10 </td>
+        <td> Iniciar atendimento  </td>
+        <td> ✖️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 10 </td>
+        <td> Registrar chamada na página "Meus chamados" </td>
+        <td> ✖️ </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Painel de atendentes disponíveis </td>
+        <td> ✖️ </td>
+        <td> Alta </td>
+    </tr>
+    
+</table>
 
 <br>
 
