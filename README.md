@@ -39,7 +39,7 @@ Nosso projeto consiste em [DESCRIÇÃO DO PROJETO E NOSSOS OBJETIVOS]
 
 <h2> 🎯 MVP </h2>
 <h4> Este é O MVP do produto: </h4>
-
+<img src="docs/video api.gif"/>
 <br>
 
 <h2> 🚩 Sprints </h2>
