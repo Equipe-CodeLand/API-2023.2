@@ -2,13 +2,13 @@
 <br id="topo">
 
 <h1> FATEC Profº Jessen Vidal - São José dos Campos - 2º Semestre DSM </h1>
-Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 2° semestre de Desenvolvimento de Software Multiplataforma (DSM) [COMENTAR O TEMA DO PROJETO].
+Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 2° semestre de Desenvolvimento de Software Multiplataforma (DSM). O projeto se refere à um sistema de Gestão de Chamadas de Serviço. A plataforma deve conter informações detalhadas sobre a disponibilização de funcionalidades sobre o planejamento, além do acompanhamento completo e controle no atendimento das chamadas..
 
 <br>
 
 <h2> 📑 Sobre o Projeto </h2>
 
-Nosso projeto consiste em [DESCRIÇÃO DO PROJETO E NOSSOS OBJETIVOS]
+O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxílio aos problemas relacionados a Internet Fixa, e busca aprimorar o sistema de Gerenciamento de Chamadas de Serviço. Nosso objetivo é que nossos clientes tenham acesso à soluções de seus problemas sobre Internet, de forma mais rápida e eficaz. 
 
 <br>
 
@@ -104,97 +104,79 @@ Nosso projeto consiste em [DESCRIÇÃO DO PROJETO E NOSSOS OBJETIVOS]
     <tr>
         <th> Épico ID </th>
         <th> Story ID </th>
-        <th> Ator </th>
-        <th> Ação </th>
-        <th> Motivo </th>
+        <th> História </th>
         <th> Prioridade </th>
     </tr>
     <tr>
         <td> 33 </td>
         <td> 31 </td>
-        <td> Cliente </td>
-        <td> Escolher o tema que melhor se encaixa com seu problema </td>
-        <td> Iniciar minha chamada de serviço </td>
-        <td> Alta </td>
-    </tr>
-    <tr>
-        <td> 38 </td>
-        <td> 9 </td>
-        <td> Cliente </td>
-        <td> Ver soluções comuns que possam resolver meu problema </td>
-        <td> Agilizar o processo. </td>
+        <td> Como usuário, eu quero poder escolher o tópico que melhor se encaixa com meu problema, para assim iniciar minha chamada de serviço. </td>
         <td> Alta </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 8 </td>
-        <td> Administrador </td>
-        <td> Acesso ao dados de cada chamada </td>
-        <td> Melhor gestão das chamadas </td>
+        <td> Como administrador, eu quero poder ver todas as chamadas em aberto e seus dados, para assim poder acompanhar os processos de atendimento </td>
         <td> Alta </td>
     </tr>
     <tr>
-        <td> 35 </td>
+        <td> 34 </td>
         <td> 15 </td>
-        <td> Cliente </td>
-        <td> Visualizar minhas chamadas </td>
-        <td> Acompanhar o atendimento </td>
+        <td> Como cliente, eu quero poder visualizar as chamadas iniciadas por mim. </td>
         <td> Alta </td>
     </tr>
     <tr>
-        <td> 35 </td>
+        <td> 34 </td>
         <td> 10 </td>
-        <td> Atendente </td>
-        <td> Iniciar chamados por conta própria </td>
-        <td> Agilizar o atendimento </td>
+        <td> Como atendente, eu quero poder ver todos os chamados sem atendentes e poder iniciá-lo por conta própria, para assim poder agilizar o processo de atendimento </td>
         <td> Alta </td>
     </tr>
     <tr>
-        <td> 35 </td>
+        <td> 34 </td>
+        <td> 55 </td>
+        <td> Como atendente, eu quero poder visualizar os chamados que estou responsável, para assim poder atender estas chamadas. </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 36 </td>
+        <td> 7 </td>
+        <td> Como adm, eu quero poder cadastrar usuários no sistema, desde outros administradores, atendentes ou clientes. </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
         <td> 11 </td>
-        <td> Administrador </td>
-        <td> Atribuir atendente a uma chamada em aberto </td>
-        <td> Agilizar o atendimento </td>
+        <td> Como adm, eu quero poder atribuir um atendente a uma chamada, para assim poder agilizar o processo de atendimento </td>
         <td> Alta </td>
     </tr>
     <tr>
         <td> 35 </td>
         <td> 32 </td>
-        <td> Atendente </td>
-        <td> Abrir a thread de uma chamada em aberto </td>
-        <td> Comunicação com o cliente </td>
-        <td> Média </td>
-    </tr>
-    <tr>
-        <td> 36 </td>
-        <td> 7 </td>
-        <td> Administrador </td>
-        <td> Cadastrar usuários (todos os tipos) </td>
-        <td> Permitir o acesso de outras pessoas </td>
-        <td> Média </td>
-    </tr>
-    <tr>
-        <td> 36 </td>
-        <td> 6 </td>
-        <td> Usuário </td>
-        <td> Fazer login no sistema </td>
-        <td> Ter acesso a plataforma </td>
+        <td> Como atendente, eu quero poder abrir a thread da chamada e me comunicar com o cliente </td>
         <td> Média </td>
     </tr>
     <tr>
         <td> 37 </td>
+        <td> 6 </td>
+        <td> Como usuário, eu quero poder logar no sistema, para poder iniciar minhas chamadas de serviço. </td>
+        <td> Média </td>
+    </tr>
+    <tr>
+        <td> 36 </td>
         <td> 40 </td>
-        <td> Cliente </td>
-        <td> Cadastro de cliente </td>
-        <td> Ter acesso a plataforma </td>
+        <td> Como usuário, eu quero poder me cadastrar no sistema, podendo assim fazer meu login e entrar no site </td>
         <td> Média </td>
     </tr>
     <tr>
         <td> 39 </td>
         <td> 14 </td>
-        <td> Administrador </td>
-        <td> Gerar relatórios analíticos </td>
-        <td> Buscar informações pertinentes, como mapear temas ou horários mais comuns das chamadas </td>
+        <td> Como adm, quero poder gerar relatórios analíticos das chamadas, exemplo: tópicos com mais chamadas, horários de maior fluxo de chamadas, tempo médio de resolução, níveis de prioridade </td>
+        <td> Baixa </td>
+    </tr>
+    <tr>
+        <td> 39 </td>
+        <td> 9 </td>
+        <td> Como usuário, eu quero ver soluções que podem resolver meu problema, antes de iniciar minha chamada, para assim agilizar o processo. </td>
         <td> Baixa </td>
     </tr>
 </table>
@@ -204,100 +186,93 @@ Nosso projeto consiste em [DESCRIÇÃO DO PROJETO E NOSSOS OBJETIVOS]
     <tr>
         <th> Épico ID </th>
         <th> Story ID </th>
-        <th> Tarefa </th>
+        <th> Objetivo </th>
+        <th> Sprint </th>
         <th> Status </th>
-        <th> Prioridade </th>
-    </tr>
-    <tr>
-        <td> - </td>
-        <td> - </td>
-        <td> Wireframe do Produto </td>
-        <td> ✔️ </td>
-        <td> Alta </td>
-    </tr>
-    <tr>
-        <td> - </td>
-        <td> - </td>
-        <td> Modelo de dados </td>
-        <td> ✔️ </td>
-        <td> Alta </td>
-    </tr>
-    <tr>
-        <td> - </td>
-        <td> - </td>
-        <td> Diagrama de classes </td>
-        <td> ✔️ </td>
-        <td> Alta </td>
     </tr>
     <tr>
         <td> 33 </td>
         <td> 31 </td>
         <td> Forms para cliente preencher seus dados de contato  </td>
-        <td> ✖️ </td>
-        <td> Alta </td>
+        <td> 1 </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 33 </td>
         <td> 31 </td>
         <td> Sessão para seleção de tema  </td>
-        <td> ✖️ </td>
-        <td> Alta </td>
+        <td> 1 </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 8 </td>
-        <td> Painel de chamadas  </td>
+        <td> Painel de chamadas (todas as chamadas) </td>
+        <td> 2 </td>
         <td> ✖️ </td>
-        <td> Alta </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 8 </td>
         <td> Detalhes da chamada  </td>
+        <td> 2 </td>
         <td> ✖️ </td>
-        <td> Alta </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 8 </td>
-        <td> Painel de chamadas (Atendente e Administrador </td>
-        <td> ✖️ </td>
-        <td> Alta </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 15 </td>
-        <td> Painel de chamadas (Cliente) </td>
+        <td> Painel de chamadas (somente do cliente) </td>
+        <td> 2 </td>
         <td> ✖️ </td>
-        <td> Alta </td>
     </tr>
     <tr>
-        <td> 35 </td>
+        <td> 34 </td>
         <td> 15 </td>
-        <td> Detalhes da chamada (Cliente)  </td>
+        <td> Detalhes da chamada  </td>
+        <td> 2 </td>
         <td> ✖️ </td>
-        <td> Alta </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 10 </td>
-        <td> Iniciar atendimento  </td>
+        <td> Painel de chamadas (somente chamadas sem atendente) </td>
+        <td> 2 </td>
         <td> ✖️ </td>
-        <td> Alta </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 10 </td>
-        <td> Registrar chamada na página "Meus chamados" </td>
+        <td> Detalhes da chamada </td>
+        <td> 2 </td>
         <td> ✖️ </td>
-        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 55 </td>
+        <td> Painel de chamadas (somente do atendente) </td>
+        <td> 2 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 55 </td>
+        <td> Detalhes da chamada </td>
+        <td> 2 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 36 </td>
+        <td> 7 </td>
+        <td> Tela para cadastro de usuários </td>
+        <td> 2 </td>
+        <td> ✖️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 11 </td>
         <td> Painel de atendentes disponíveis </td>
+        <td> 2 </td>
         <td> ✖️ </td>
-        <td> Alta </td>
     </tr>
     
 </table>
