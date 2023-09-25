@@ -29,17 +29,11 @@ O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxíli
 
 <br>
 
-<h2> 🖥️ Rode a Aplicação:</h2>
-
-<h5> 1. [DESCREVER PASSO A PASSO PARA O USUÁRIO]: </h5>
-
-    [CÓDIGOS]
-    
-<br>
-
 <h2> 🎯 MVP </h2>
 <h4> Este é O MVP do produto: </h4>
 <img src="docs/video-api.gif"/>
+Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJsfpQN0jlbp/Protótipo-API-2023.2?type=design&node-id=0-1&mode=design&t=ux9UagAZET3VBtz0-0">aqui!</a>
+
 <br>
 
 <h2> 🚩 Sprints </h2>
@@ -273,6 +267,34 @@ O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxíli
         <td> Painel de atendentes disponíveis </td>
         <td> 2 </td>
         <td> ✖️ </td>
+    </tr>
+    
+</table>
+
+<br>
+
+<h2> DoR e DoD </h2>
+
+<table>
+    <tr>
+        <th> DoR </th>
+        <th> DoD </th>
+    </tr>
+    <tr> 
+        <td>Wireframe</td>
+        <td> Apresentar um código limpo para simplificar manutenções e adições futuras </td>
+    </tr>
+    <tr>
+        <td> Backlog </td>
+        <td> Cumprir claramente os critérios de aceitação previstos </td>
+    </tr>
+    <tr>
+        <td> Modelo de Dados </td>
+        <td> Testes para garantir que a tarefa realmente cumpre sua função com êxito </td>
+    </tr>
+    <tr>
+        <td> User Stories </td>
+        <td> Verificação de erros ou bugs que podem comprometer tarefas futuras </td>
     </tr>
     
 </table>
