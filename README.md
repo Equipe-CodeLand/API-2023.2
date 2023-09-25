@@ -23,6 +23,7 @@ O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxíli
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&color=e60023"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023"/>
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=e60023"/>
+    <img src="https://img.shields.io/badge/Figma-217346?style=for-the-badge&logo=figma&logoColor=white&color=e60023"/>
 
     
 </div>
