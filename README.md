@@ -91,6 +91,11 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> Soluções para problemas comuns </td>
         <td> Baixa </td>
     </tr>
+    <tr>
+        <td> 69 </td>
+        <td> Filtrar chamadas </td>
+        <td> Baixa </td>
+    </tr>
 </table>
 
 <h2> User Storys </h2>
@@ -163,6 +168,18 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> Média </td>
     </tr>
     <tr>
+        <td> 35 </td>
+        <td> 73 </td>
+        <td> Como usuário, eu quero poder abrir a thread da chamada e poder me comunicar com o atendente, para assim tentar resolver meu problema </td>
+        <td> Média </td>
+    </tr>
+    <tr>
+        <td> 35 </td>
+        <td> 88 </td>
+        <td> Como administrador, eu quero poder definir uma prioridade para a chamada, para assim agilizar o processo de atendimento </td>
+        <td> Média </td>
+    </tr>
+    <tr>
         <td> 39 </td>
         <td> 14 </td>
         <td> Como adm, quero poder gerar relatórios analíticos das chamadas, exemplo: tópicos com mais chamadas, horários de maior fluxo de chamadas, tempo médio de resolução, níveis de prioridade </td>
@@ -172,6 +189,18 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> 39 </td>
         <td> 9 </td>
         <td> Como usuário, eu quero ver soluções que podem resolver meu problema, antes de iniciar minha chamada, para assim agilizar o processo. </td>
+        <td> Baixa </td>
+    </tr>
+    <tr>
+        <td> 69 </td>
+        <td> 71 </td>
+        <td> Como atendente, eu quero poder filtrar as chamadas de acordo com o seu tema ou sua prioridade, para assim poder agilizar meu atendimento as chamadas </td>
+        <td> Baixa </td>
+    </tr>
+    <tr>
+        <td> 69 </td>
+        <td> 72 </td>
+        <td> Como adm, eu quero poder filtrar as chamadas de acordo com o seu tema, prioridade ou nome do atendente responsável por ela, para assim poder melhorar a minha gestão das chamadas. </td>
         <td> Baixa </td>
     </tr>
 </table>
@@ -202,72 +231,72 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
     <tr>
         <td> 34 </td>
         <td> 8 </td>
-        <td> Painel de chamadas (todas as chamadas) </td>
+        <td> (Front) Painel de chamadas (Administrador) </td>
         <td> 2 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 8 </td>
-        <td> Detalhes da chamada  </td>
+        <td> (Front) Detalhes da chamada (Administrador) </td>
         <td> 2 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 15 </td>
-        <td> Painel de chamadas (somente do cliente) </td>
+        <td> (Front) Painel de chamadas (Cliente) </td>
         <td> 2 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 15 </td>
-        <td> Detalhes da chamada  </td>
+        <td> (Front) Detalhes da chamada (Cliente) </td>
         <td> 2 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 10 </td>
-        <td> Painel de chamadas (somente chamadas sem atendente) </td>
+        <td> (Front) Painel de chamadas não iniciadas (Atendente) </td>
         <td> 2 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 10 </td>
-        <td> Detalhes da chamada </td>
+        <td> (Front) Detalhes da chamada não iniciada (Atendente) </td>
         <td> 2 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 55 </td>
-        <td> Painel de chamadas (somente do atendente) </td>
+        <td> (Front) Painel de chamadas em andamento (Atendente) </td>
         <td> 2 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 55 </td>
-        <td> Detalhes da chamada </td>
+        <td> (Front) Detalhes da chamada em andamento (Atendente) </td>
         <td> 2 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 36 </td>
         <td> 7 </td>
-        <td> Tela para cadastro de usuários </td>
+        <td> (Front) Tela para cadastro de usuários </td>
         <td> 2 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 11 </td>
-        <td> Painel de atendentes disponíveis </td>
+        <td> (Front) Painel de atendentes disponíveis </td>
         <td> 2 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     
 </table>
