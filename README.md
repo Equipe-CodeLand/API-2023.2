@@ -24,6 +24,10 @@ O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxíli
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023"/>
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=e60023"/>
     <img src="https://img.shields.io/badge/Figma-217346?style=for-the-badge&logo=figma&logoColor=white&color=e60023"/>
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=e60023"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=e60023"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=e60023"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=e60023"/>
 
     
 </div>
@@ -32,7 +36,10 @@ O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxíli
 
 <h2> 🎯 MVP </h2>
 <h4> Este é O MVP do produto: </h4>
-<img src="docs/video-api.gif"/>
+<h5> Cadastro de usuários: </h5>
+<img src="https://i.imgur.com/iZNw3Lo.gif" width="600"/>
+<h5> Cadastro de chamadas: </h5>
+<img src="https://i.imgur.com/Yqg8ixy.gif" width="600"/>
 Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJsfpQN0jlbp/Protótipo-API-2023.2?type=design&node-id=0-1&mode=design&t=ux9UagAZET3VBtz0-0">aqui!</a>
 
 <br>
@@ -357,42 +364,42 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/104635440?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
-        <td> Scrum Team </td>
+        <td> Dev Team </td>
         <td> Caio Rodrigues de Almeida </td>
         <td> <a href="https://www.linkedin.com/in/caio-almeida-3693b5271/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
         <td> <a href="https://github.com/Caio-Almeida4"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
   <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/37639392?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
-        <td> Scrum Team </td>
+        <td> Dev Team </td>
         <td> Iago Cardoso Souza </td>
         <td> <a href="https://www.linkedin.com/in/iago-cardoso-315955194/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
         <td> <a href="https://github.com/iagocpv"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/125418833?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
-        <td> Scrum Team </td>
+        <td> Dev Team </td>
         <td> Laura Gabriel Gonçalves </td>
         <td> <a href="https://www.linkedin.com/in/eulauragabriel"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
         <td> <a href="https://github.com/eulauragabriel"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/126177124?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
-        <td> Scrum Team </td>
-        <td> Lívia Alves de Faria </td>
+        <td> Dev Team </td>
+        <td> Livia Alves de Faria </td>
         <td> <a href="https://www.linkedin.com/in/livialvs"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
         <td> <a href="https://github.com/livialvs"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/84729056?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
-        <td> Scrum Team </td>
+        <td> Dev Team </td>
         <td> Luiz Felipe dos Santos </td>
         <td> <a href="https://www.linkedin.com/in/lfelipesant"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
         <td> <a href="https://github.com/felipe-sant"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
     <tr>
           <td> <img src="https://avatars.githubusercontent.com/u/125457676?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
-          <td> Scrum Team </td>
+          <td> Dev Team </td>
           <td> Pedro Henrique de Souza </td>
           <td> <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-128484214/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
           <td> <a href="https://github.com/Pedryn"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
