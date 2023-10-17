@@ -239,72 +239,114 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
     <tr>
         <td> 34 </td>
         <td> 8 </td>
-        <td> (Front) Painel de chamadas (Administrador) </td>
-        <td> 2 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 8 </td>
-        <td> (Front) Detalhes da chamada (Administrador) </td>
+        <td> Painel de chamadas (Administrador) </td>
         <td> 2 </td>
         <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 15 </td>
-        <td> (Front) Painel de chamadas (Cliente) </td>
-        <td> 2 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 15 </td>
-        <td> (Front) Detalhes da chamada (Cliente) </td>
+        <td> Painel de chamadas (Cliente) </td>
         <td> 2 </td>
         <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 10 </td>
-        <td> (Front) Painel de chamadas não iniciadas (Atendente) </td>
-        <td> 2 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 10 </td>
-        <td> (Front) Detalhes da chamada não iniciada (Atendente) </td>
-        <td> 2 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 55 </td>
-        <td> (Front) Painel de chamadas em andamento (Atendente) </td>
-        <td> 2 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 55 </td>
-        <td> (Front) Detalhes da chamada em andamento (Atendente) </td>
+        <td> Painel de chamadas não iniciadas (Atendente) </td>
         <td> 2 </td>
         <td> ✔️ </td>
     </tr>
     <tr>
         <td> 36 </td>
         <td> 7 </td>
-        <td> (Front) Tela para cadastro de usuários </td>
+        <td> Formulário para cadastro de usuários </td>
         <td> 2 </td>
         <td> ✔️ </td>
     </tr>
     <tr>
         <td> 34 </td>
-        <td> 11 </td>
-        <td> (Front) Painel de atendentes disponíveis </td>
-        <td> 2 </td>
+        <td> 8 </td>
+        <td> Painel de chamadas do atendente (completo) </td>
+        <td> 3 </td>
         <td> ✔️ </td>
+    </tr>
+     <tr>
+        <td> 34 </td>
+        <td> 15 </td>
+        <td> Painel de chamadas do cliente </td>
+        <td> 3 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Botão para o cliente cancelar chamado </td>
+        <td> 3 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Botão para o atendente concluir ou cancelar o chamado </td>
+        <td> 3 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Fazer as threads </td>
+        <td> 3 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Campo de texto das threads com o botaão de concluir ou cancelar chamado do lado do atendente </td>
+        <td> 3 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Painel de chamadas do administrador </td>
+        <td> 3 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Tela de login </td>
+        <td> 3 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Autenticar usuário </td>
+        <td> 3 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Separar o formulário de cadastro de cliente do formulário de cadastro de chamada </td>
+        <td> 3 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Armazenar no banco de dados as chamadas e o cadastro de clientes</td>
+        <td> 3 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 34 </td>
+        <td> 11 </td>
+        <td> Painel de atribuição de atendentes disponíveis </td>
+        <td> 3 </td>
+        <td> ✖️ </td>
     </tr>
     
 </table>
