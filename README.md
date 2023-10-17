@@ -2,7 +2,7 @@
 <br id="topo">
 
 <h1> FATEC Profº Jessen Vidal - São José dos Campos - 2º Semestre DSM </h1>
-Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 2° semestre de Desenvolvimento de Software Multiplataforma (DSM). O projeto se refere à um sistema de Gestão de Chamadas de Serviço. A plataforma deve conter informações detalhadas sobre a disponibilização de funcionalidades sobre o planejamento, além do acompanhamento completo e controle no atendimento das chamadas..
+Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 2° semestre de Desenvolvimento de Software Multiplataforma (DSM). O projeto se refere à um sistema de Gestão de Chamadas de Serviço. A plataforma deve conter informações detalhadas sobre a disponibilização de funcionalidades sobre o planejamento, além do acompanhamento completo e controle no atendimento das chamadas.
 
 <br>
 
@@ -106,7 +106,7 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
     </tr>
 </table>
 
-<h2> User Storys </h2>
+<h2> User Stories </h2>
 
 <table>
     <tr>
