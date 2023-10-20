@@ -118,7 +118,7 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
     <tr>
         <td> 33 </td>
         <td> 31 </td>
-        <td> Como usuário, eu quero poder escolher o tópico que melhor se encaixa com meu problema, para assim iniciar minha chamada de serviço. </td>
+        <td> Como cliente, eu quero poder escolher o tópico que melhor se encaixa com meu problema, para assim iniciar minha chamada de serviço. </td>
         <td> Alta </td>
     </tr>
     <tr>
@@ -146,15 +146,15 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> Alta </td>
     </tr>
     <tr>
-        <td> 36 </td>
-        <td> 7 </td>
-        <td> Como adm, eu quero poder cadastrar usuários no sistema, desde outros administradores, atendentes ou clientes. </td>
-        <td> Alta </td>
-    </tr>
-    <tr>
         <td> 34 </td>
         <td> 11 </td>
         <td> Como adm, eu quero poder atribuir um atendente a uma chamada, para assim poder agilizar o processo de atendimento </td>
+        <td> Alta </td>
+    </tr>
+    <tr>
+        <td> 36 </td>
+        <td> 7 </td>
+        <td> Como adm, eu quero poder cadastrar usuários no sistema, desde outros administradores, atendentes ou clientes. </td>
         <td> Alta </td>
     </tr>
     <tr>
@@ -164,21 +164,9 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> Média </td>
     </tr>
     <tr>
-        <td> 37 </td>
-        <td> 6 </td>
-        <td> Como usuário, eu quero poder logar no sistema, para poder iniciar minhas chamadas de serviço. </td>
-        <td> Média </td>
-    </tr>
-    <tr>
-        <td> 36 </td>
-        <td> 40 </td>
-        <td> Como usuário, eu quero poder me cadastrar no sistema, podendo assim fazer meu login e entrar no site </td>
-        <td> Média </td>
-    </tr>
-    <tr>
         <td> 35 </td>
         <td> 73 </td>
-        <td> Como usuário, eu quero poder abrir a thread da chamada e poder me comunicar com o atendente, para assim tentar resolver meu problema </td>
+        <td> Como cliente, eu quero poder abrir a thread da chamada e poder me comunicar com o atendente, para assim tentar resolver meu problema </td>
         <td> Média </td>
     </tr>
     <tr>
@@ -188,27 +176,33 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> Média </td>
     </tr>
     <tr>
+        <td> 36 </td>
+        <td> 40 </td>
+        <td> Como usuário, eu quero poder me cadastrar no sistema, podendo assim fazer meu login e entrar no site </td>
+        <td> Média </td>
+    </tr>
+    <tr>
+        <td> 37 </td>
+        <td> 6 </td>
+        <td> Como usuário, eu quero poder logar no sistema, para poder iniciar minhas chamadas de serviço. </td>
+        <td> Média </td>
+    </tr>
+    <tr>
+        <td> 39 </td>
+        <td> 9 </td>
+        <td> Como cliente, eu quero ver soluções que podem resolver meu problema, antes de iniciar minha chamada, para assim agilizar o processo. </td>
+        <td> Baixa </td>
+    </tr>
+    <tr>
         <td> 39 </td>
         <td> 14 </td>
         <td> Como adm, quero poder gerar relatórios analíticos das chamadas, exemplo: tópicos com mais chamadas, horários de maior fluxo de chamadas, tempo médio de resolução, níveis de prioridade </td>
         <td> Baixa </td>
     </tr>
     <tr>
-        <td> 39 </td>
-        <td> 9 </td>
-        <td> Como usuário, eu quero ver soluções que podem resolver meu problema, antes de iniciar minha chamada, para assim agilizar o processo. </td>
-        <td> Baixa </td>
-    </tr>
-    <tr>
         <td> 69 </td>
         <td> 71 </td>
         <td> Como atendente, eu quero poder filtrar as chamadas de acordo com o seu tema ou sua prioridade, para assim poder agilizar meu atendimento as chamadas </td>
-        <td> Baixa </td>
-    </tr>
-    <tr>
-        <td> 69 </td>
-        <td> 72 </td>
-        <td> Como adm, eu quero poder filtrar as chamadas de acordo com o seu tema, prioridade ou nome do atendente responsável por ela, para assim poder melhorar a minha gestão das chamadas. </td>
         <td> Baixa </td>
     </tr>
 </table>
@@ -226,27 +220,6 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> 33 </td>
         <td> 31 </td>
         <td> Forms para cliente preencher seus dados de contato  </td>
-        <td> 1 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 33 </td>
-        <td> 31 </td>
-        <td> Sessão para seleção de tema  </td>
-        <td> 1 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 8 </td>
-        <td> Painel de chamadas (Administrador) </td>
-        <td> 2 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 15 </td>
-        <td> Painel de chamadas (Cliente) </td>
         <td> 2 </td>
         <td> ✔️ </td>
     </tr>
@@ -267,88 +240,73 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
     <tr>
         <td> 34 </td>
         <td> 8 </td>
-        <td> Painel de chamadas do atendente (completo) </td>
+        <td> Painel de chamadas do administrador </td>
         <td> 3 </td>
-        <td> ✔️ </td>
+        <td> ⏳ </td>
     </tr>
      <tr>
         <td> 34 </td>
         <td> 15 </td>
         <td> Painel de chamadas do cliente </td>
         <td> 3 </td>
-        <td> ✖️ </td>
+        <td> ⏳ </td>
     </tr>
     <tr>
-        <td> 34 </td>
-        <td> 11 </td>
-        <td> Botão para o cliente cancelar chamado </td>
+        <td> 35 </td>
+        <td> 32 </td>
+        <td> Threads para comunicação entre cliente e atendente </td>
+        <td> 3 </td>
+        <td> ⏳ </td>
+    </tr>
+    <tr>
+        <td> 35 </td>
+        <td> 32 </td>
+        <td> Campo de texto na thread com os botões de concluir e cancelar chamado (Visão do atendente) </td>
         <td> 3 </td>
         <td> ✖️ </td>
     </tr>
     <tr>
-        <td> 34 </td>
-        <td> 11 </td>
-        <td> Botão para o atendente concluir ou cancelar o chamado </td>
+        <td> 35 </td>
+        <td> 73 </td>
+        <td> Botão para cancelar chamado (Visão do cliente) </td>
         <td> 3 </td>
         <td> ✖️ </td>
     </tr>
     <tr>
-        <td> 34 </td>
-        <td> 11 </td>
-        <td> Fazer as threads </td>
-        <td> 3 </td>
-        <td> ✖️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 11 </td>
-        <td> Campo de texto das threads com o botaão de concluir ou cancelar chamado do lado do atendente </td>
-        <td> 3 </td>
-        <td> ✖️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 11 </td>
-        <td> Painel de chamadas do administrador </td>
-        <td> 3 </td>
-        <td> ✖️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 11 </td>
+        <td> 37 </td>
+        <td> 6 </td>
         <td> Tela de login </td>
         <td> 3 </td>
+        <td> ⏳ </td>
+    </tr>
+    <tr>
+        <td> 40 </td>
+        <td> 97 </td>
+        <td> Separar o formulário de cadastro de cliente do formulário para iniciar chamadado </td>
+        <td> 3 </td>
+        <td> ⏳ </td>
+    </tr>
+    <tr>
+        <td> 38 </td>
+        <td> 14 </td>
+        <td> Tela para gerar relatórios analíticos  </td>
+        <td> 4 </td>
         <td> ✖️ </td>
     </tr>
     <tr>
-        <td> 34 </td>
-        <td> 11 </td>
-        <td> Autenticar usuário </td>
-        <td> 3 </td>
+        <td> 39 </td>
+        <td> 9 </td>
+        <td> Tela de soluções para problemas comuns </td>
+        <td> 4 </td>
         <td> ✖️ </td>
     </tr>
     <tr>
-        <td> 34 </td>
-        <td> 11 </td>
-        <td> Separar o formulário de cadastro de cliente do formulário de cadastro de chamada </td>
-        <td> 3 </td>
+        <td> 69 </td>
+        <td> 71 </td>
+        <td> Filtro de chamadas por temas e prioridades </td>
+        <td> 4 </td>
         <td> ✖️ </td>
     </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 11 </td>
-        <td> Armazenar no banco de dados as chamadas e o cadastro de clientes</td>
-        <td> 3 </td>
-        <td> ✖️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 11 </td>
-        <td> Painel de atribuição de atendentes disponíveis </td>
-        <td> 3 </td>
-        <td> ✖️ </td>
-    </tr>
-    
 </table>
 
 <br>
