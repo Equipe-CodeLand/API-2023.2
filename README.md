@@ -226,7 +226,7 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
     <tr>
         <td> 33 </td>
         <td> 31 </td>
-        <td> Forms para cliente preencher seus dados de contato  </td>
+        <td> Forms para cliente iniciar um chamado </td>
         <td> 2 </td>
         <td> ✔️ </td>
     </tr>
@@ -249,61 +249,54 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> 8 </td>
         <td> Painel de chamadas do administrador </td>
         <td> 3 </td>
-        <td> ⏳ </td>
+        <td> ✔️ </td>
     </tr>
      <tr>
         <td> 34 </td>
         <td> 15 </td>
         <td> Painel de chamadas do cliente </td>
         <td> 3 </td>
-        <td> ⏳ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 35 </td>
         <td> 32 </td>
         <td> Threads para comunicação entre cliente e atendente </td>
         <td> 3 </td>
-        <td> ⏳ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 35 </td>
         <td> 32 </td>
-        <td> Campo de texto na thread com os botões de concluir e cancelar chamado (Visão do atendente) </td>
+        <td> Campo de texto na thread para gerenciar o chamado (Cancelar ou Concluír o chamado)  </td>
         <td> 3 </td>
-        <td> ✖️ </td>
-    </tr>
-    <tr>
-        <td> 35 </td>
-        <td> 73 </td>
-        <td> Botão para cancelar chamado (Visão do cliente) </td>
-        <td> 3 </td>
-        <td> ✖️ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 37 </td>
         <td> 6 </td>
         <td> Tela de login </td>
         <td> 3 </td>
-        <td> ⏳ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 40 </td>
         <td> 97 </td>
-        <td> Separar o formulário de cadastro de cliente do formulário para iniciar chamadado </td>
+        <td> Formulário para o cliente se cadastrar no sistema </td>
         <td> 3 </td>
-        <td> ⏳ </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 38 </td>
         <td> 14 </td>
-        <td> Tela para gerar relatórios analíticos  </td>
+        <td> Gerar relatórios analíticos  </td>
         <td> 4 </td>
         <td> ✖️ </td>
     </tr>
     <tr>
         <td> 39 </td>
         <td> 9 </td>
-        <td> Tela de soluções para problemas comuns </td>
+        <td> Tela com soluções para problemas comuns </td>
         <td> 4 </td>
         <td> ✖️ </td>
     </tr>
