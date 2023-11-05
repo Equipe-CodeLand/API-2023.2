@@ -207,6 +207,12 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> Baixa </td>
     </tr>
     <tr>
+        <td> 39 </td>
+        <td> 105 </td>
+        <td> Como adm, quero poder adicionar, editar ou excluir soluções para problemas comuns dos chamados, para assim ajudar o cliente rapidamente e reduzir o fluxo de chamados. </td>
+        <td> Baixa </td>
+    </tr>
+    <tr>
         <td> 69 </td>
         <td> 71 </td>
         <td> Como atendente, eu quero poder filtrar as chamadas de acordo com o seu tema ou sua prioridade, para assim poder agilizar meu atendimento as chamadas </td>
@@ -222,6 +228,13 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <th> Objetivo </th>
         <th> Sprint </th>
         <th> Status </th>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> Protótipo no Figma </td>
+        <td> 1 </td>
+        <td> ✔️ </td>
     </tr>
     <tr>
         <td> 33 </td>
@@ -280,8 +293,8 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> ✔️ </td>
     </tr>
     <tr>
+        <td> 36 </td>
         <td> 40 </td>
-        <td> 97 </td>
         <td> Formulário para o cliente se cadastrar no sistema </td>
         <td> 3 </td>
         <td> ✔️ </td>
@@ -297,6 +310,13 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> 39 </td>
         <td> 9 </td>
         <td> Tela com soluções para problemas comuns </td>
+        <td> 4 </td>
+        <td> ✖️ </td>
+    </tr>
+    <tr>
+        <td> 39 </td>
+        <td> 105 </td>
+        <td> Gerenciar soluções para problemas conhecidos </td>
         <td> 4 </td>
         <td> ✖️ </td>
     </tr>
