@@ -29,6 +29,7 @@ O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxíli
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=e60023"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=e60023"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=e60023"/>
+    <img src="https://img.shields.io/badge/TypeORM-007ACC?style=for-the-badge&logoColor=white&color=e60023"/>
 
     
 </div>
@@ -382,13 +383,6 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <td> Felipe Gabriel Vieira </td>
         <td> <a href="https://www.linkedin.com/in/velipefieira/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
         <td> <a href="https://github.com/velipefieira"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
-    </tr>
-    <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/104635440?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
-        <td> Dev Team </td>
-        <td> Caio Rodrigues de Almeida </td>
-        <td> <a href="https://www.linkedin.com/in/caio-almeida-3693b5271/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e60023'/> </a> </td>
-        <td> <a href="https://github.com/Caio-Almeida4"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=e60023'/> </a> </td>
     </tr>
   <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/37639392?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
