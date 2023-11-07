@@ -59,8 +59,8 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
 | :----: | :--------: | :--------: | :---------------------------------------------------------------------------------: | :----: |
 |   01   | 04/09/2023 | 24/09/2023 | [Relatório](https://github.com/Equipe-CodeLand/API-2023.2/releases/tag/sprint-1)                                                                                 |    ✔️    |
 |   02   | 25/09/2023 | 15/10/2023 | [Relatório](https://github.com/Equipe-CodeLand/API-2023.2/releases/tag/sprint-2)                                                                                  |    ✔️    |
-|   03   | 16/10/2023 | 05/11/2023 | ---                                                                                 |    ⏳    |
-|   04   | 06/11/2023 | 26/11/2023 | ---                                                                                 |    -    |
+|   03   | 16/10/2023 | 05/11/2023 | [Relatório](https://github.com/Equipe-CodeLand/API-2023.2/releases/tag/sprint-3)                                                                                 |    ✔️    |
+|   04   | 06/11/2023 | 26/11/2023 | ---                                                                                 |    ⏳    |
 
 <br>
 
