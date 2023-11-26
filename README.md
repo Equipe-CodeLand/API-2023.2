@@ -36,17 +36,27 @@ O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxíli
 
 <br>
 
-<h2> 🎯 MVP </h2>
+<h2> 🎯 MVP </h2>## 📌 Entregas da quarta sprint do 2° semestre de DSM
+
+| ID | Tarefa | User Story correlata | Estimativa de Esforço (h) |
+| --- | ------ | --------------------- |  -------------------------- |
+| 103 | Fazer com que na tela home do cliente apareça todas as soluções já conhecidas para os problemas comuns (com base nas pesquisas da sprint 1) buscando os dados do banco de dados {FRONT} | 9 | 4 |
+| 103 | Fazer a rota e a função responsável por buscar no banco de dados todas as soluções já conhecidas para os problemas comuns (com base nas pesquisas da sprint 1) {BACK} | 9 | 4 |
+| 106 | Gerenciar soluções de problemas comuns | 105 | 10 |
+| 74 | Filtro de chamadas por temas e prioridades | 71 | 10 |
+| 110 | Manual do usuário | - | 2 |
+| 111 | Alterar a prioridade da chamada de acordo ao decorrer do tempo | - | 10 |
+| 113 | Gerar relatórios analíticos | 14 | 10 |
 <h3> Este é O MVP do produto: </h3>
 <h4> Visão do Cliente </h4>
 <h5> Visualizar soluções para problemas comuns, abertura e visualização de chamado: </h5>
-<img src="./docs/mvp_cliente.gif" width="600"/>
+<img src="./docs/cliente_mvp.gif" width="600"/>
 <h4> Visão do Administrador </h4>
 <h5> Atribuição de atendente, relatórios analíticos, gerenciar soluções para problemas comuns e cadastro de cliente: </h5>
-<img src="./docs/mvp_adm.gif" width="600"/>
+<img src="./docs/adm_mvp.gif" width="600"/>
 <h4> Visão do Atendente </h4>
 <h5> Atendimento do chamado: </h5>
-<img src="./docs/mvp_atendente.gif" width="600"/>
+<img src="./docs/atendente_mvp.gif" width="600"/>
 <p> </p>
 Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJsfpQN0jlbp/Protótipo-API-2023.2?type=design&node-id=0-1&mode=design&t=ux9UagAZET3VBtz0-0">aqui!</a>
 
