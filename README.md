@@ -39,16 +39,15 @@ O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxíli
 <h2> 🎯 MVP </h2>
 <h3> Este é O MVP do produto: </h3>
 <h4> Visão do Cliente </h4>
-<h5> Cadastro de Clientes e abertura de chamados: </h5>
-<img src="https://imgur.com/Foz33ga.gif" width="600"/>
-<h5> Visão geral do chamado: </h5>
-<img src="https://imgur.com/lfGtO0N.gif" width="600"/>
+<h5> Visualizar soluções para problemas comuns, abertura e visualização de chamado: </h5>
+<img src="./docs/mvp_cliente.gif" width="600"/>
 <h4> Visão do Administrador </h4>
-<h5> Criação de usuários e gerenciamento do chamado: </h5>
-<img src="https://imgur.com/nQCm5wB.gif" width="600"/>
+<h5> Atribuição de atendente, relatórios analíticos, gerenciar soluções para problemas comuns e cadastro de cliente: </h5>
+<img src="./docs/mvp_adm.gif" width="600"/>
 <h4> Visão do Atendente </h4>
 <h5> Atendimento do chamado: </h5>
-<img src="https://i.imgur.com/zv1NPGn.gif" width="600"/>
+<img src="./docs/mvp_atendente.gif" width="600"/>
+<p> </p>
 Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJsfpQN0jlbp/Protótipo-API-2023.2?type=design&node-id=0-1&mode=design&t=ux9UagAZET3VBtz0-0">aqui!</a>
 
 <br>
