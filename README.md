@@ -59,8 +59,8 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
 | :----: | :--------: | :--------: | :---------------------------------------------------------------------------------: | :----: |
 |   01   | 04/09/2023 | 24/09/2023 | [Relatório](https://github.com/Equipe-CodeLand/API-2023.2/releases/tag/sprint-1)                                                                                 |    ✔️    |
 |   02   | 25/09/2023 | 15/10/2023 | [Relatório](https://github.com/Equipe-CodeLand/API-2023.2/releases/tag/sprint-2)                                                                                  |    ✔️    |
-|   03   | 16/10/2023 | 05/11/2023 | ---                                                                                 |    ⏳    |
-|   04   | 06/11/2023 | 26/11/2023 | ---                                                                                 |    -    |
+|   03   | 16/10/2023 | 05/11/2023 | [Relatório](https://github.com/Equipe-CodeLand/API-2023.2/releases/tag/sprint-3)                                                                                 |    ✔️    |
+|   04   | 06/11/2023 | 26/11/2023 | ---                                                                                 |    ⏳    |
 
 <br>
 
@@ -114,7 +114,7 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
     </tr>
 </table>
 
-<h2> User Stories </h2>
+<h2> 📜 Backlog Total </h2>
 
 <table>
     <tr>
@@ -122,211 +122,112 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
         <th> Story ID </th>
         <th> História </th>
         <th> Prioridade </th>
+        <th> User Story Points </th>
     </tr>
     <tr>
         <td> 33 </td>
         <td> 31 </td>
         <td> Como cliente, eu quero poder escolher o tópico que melhor se encaixa com meu problema, para assim iniciar minha chamada de serviço. </td>
         <td> Alta </td>
+        <td> 13 </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 8 </td>
         <td> Como administrador, eu quero poder ver todas as chamadas em aberto e seus dados, para assim poder acompanhar os processos de atendimento </td>
         <td> Alta </td>
+        <td> 13 </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 15 </td>
         <td> Como cliente, eu quero poder visualizar as chamadas iniciadas por mim. </td>
         <td> Alta </td>
+        <td> 21 </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 10 </td>
         <td> Como atendente, eu quero poder ver todos os chamados sem atendentes e poder iniciá-lo por conta própria, para assim poder agilizar o processo de atendimento </td>
         <td> Alta </td>
+        <td> 21 </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 55 </td>
         <td> Como atendente, eu quero poder visualizar os chamados que estou responsável, para assim poder atender estas chamadas. </td>
         <td> Alta </td>
+        <td> 21 </td>
     </tr>
     <tr>
         <td> 34 </td>
         <td> 11 </td>
         <td> Como adm, eu quero poder atribuir um atendente a uma chamada, para assim poder agilizar o processo de atendimento </td>
         <td> Alta </td>
+        <td> 34 </td>
     </tr>
     <tr>
         <td> 36 </td>
         <td> 7 </td>
         <td> Como adm, eu quero poder cadastrar usuários no sistema, desde outros administradores, atendentes ou clientes. </td>
         <td> Alta </td>
+        <td> 21 </td>
     </tr>
     <tr>
         <td> 35 </td>
         <td> 32 </td>
         <td> Como atendente, eu quero poder abrir a thread da chamada e me comunicar com o cliente </td>
         <td> Média </td>
+        <td> 21 </td>
     </tr>
     <tr>
         <td> 35 </td>
         <td> 73 </td>
         <td> Como cliente, eu quero poder abrir a thread da chamada e poder me comunicar com o atendente, para assim tentar resolver meu problema </td>
         <td> Média </td>
-    </tr>
-    <tr>
-        <td> 35 </td>
-        <td> 88 </td>
-        <td> Como administrador, eu quero poder definir uma prioridade para a chamada, para assim agilizar o processo de atendimento </td>
-        <td> Média </td>
+        <td> 21 </td>
     </tr>
     <tr>
         <td> 36 </td>
         <td> 40 </td>
         <td> Como usuário, eu quero poder me cadastrar no sistema, podendo assim fazer meu login e entrar no site </td>
         <td> Média </td>
+        <td> 13 </td>
     </tr>
     <tr>
         <td> 37 </td>
         <td> 6 </td>
         <td> Como usuário, eu quero poder logar no sistema, para poder iniciar minhas chamadas de serviço. </td>
         <td> Média </td>
+        <td> 34 </td>
     </tr>
     <tr>
         <td> 39 </td>
         <td> 9 </td>
         <td> Como cliente, eu quero ver soluções que podem resolver meu problema, antes de iniciar minha chamada, para assim agilizar o processo. </td>
         <td> Baixa </td>
+        <td> 5 </td>
     </tr>
     <tr>
         <td> 39 </td>
         <td> 14 </td>
         <td> Como adm, quero poder gerar relatórios analíticos das chamadas, exemplo: tópicos com mais chamadas, horários de maior fluxo de chamadas, tempo médio de resolução, níveis de prioridade </td>
         <td> Baixa </td>
+        <td> 34 </td>
     </tr>
     <tr>
         <td> 39 </td>
         <td> 105 </td>
         <td> Como adm, quero poder adicionar, editar ou excluir soluções para problemas comuns dos chamados, para assim ajudar o cliente rapidamente e reduzir o fluxo de chamados. </td>
         <td> Baixa </td>
+        <td> 34 </td>
     </tr>
     <tr>
         <td> 69 </td>
         <td> 71 </td>
         <td> Como atendente, eu quero poder filtrar as chamadas de acordo com o seu tema ou sua prioridade, para assim poder agilizar meu atendimento as chamadas </td>
         <td> Baixa </td>
-    </tr>
-</table>
-    
-<h2> 📜 Backlog Total </h2>
-<table>
-    <tr>
-        <th> Épico ID </th>
-        <th> Story ID </th>
-        <th> Objetivo </th>
-        <th> Sprint </th>
-        <th> Status </th>
-    </tr>
-    <tr>
-        <td> - </td>
-        <td> - </td>
-        <td> Protótipo no Figma </td>
-        <td> 1 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 33 </td>
-        <td> 31 </td>
-        <td> Forms para cliente iniciar um chamado </td>
-        <td> 2 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 10 </td>
-        <td> Painel de chamadas não iniciadas (Atendente) </td>
-        <td> 2 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 36 </td>
-        <td> 7 </td>
-        <td> Formulário para cadastro de usuários </td>
-        <td> 2 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 34 </td>
-        <td> 8 </td>
-        <td> Painel de chamadas do administrador </td>
-        <td> 3 </td>
-        <td> ✔️ </td>
-    </tr>
-     <tr>
-        <td> 34 </td>
-        <td> 15 </td>
-        <td> Painel de chamadas do cliente </td>
-        <td> 3 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 35 </td>
-        <td> 32 </td>
-        <td> Threads para comunicação entre cliente e atendente </td>
-        <td> 3 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 35 </td>
-        <td> 32 </td>
-        <td> Campo de texto na thread para gerenciar o chamado (Cancelar ou Concluír o chamado)  </td>
-        <td> 3 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 37 </td>
-        <td> 6 </td>
-        <td> Tela de login </td>
-        <td> 3 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 36 </td>
-        <td> 40 </td>
-        <td> Formulário para o cliente se cadastrar no sistema </td>
-        <td> 3 </td>
-        <td> ✔️ </td>
-    </tr>
-    <tr>
-        <td> 38 </td>
-        <td> 14 </td>
-        <td> Gerar relatórios analíticos  </td>
-        <td> 4 </td>
-        <td> ✖️ </td>
-    </tr>
-    <tr>
-        <td> 39 </td>
-        <td> 9 </td>
-        <td> Tela com soluções para problemas comuns </td>
-        <td> 4 </td>
-        <td> ✖️ </td>
-    </tr>
-    <tr>
-        <td> 39 </td>
-        <td> 105 </td>
-        <td> Gerenciar soluções para problemas conhecidos </td>
-        <td> 4 </td>
-        <td> ✖️ </td>
-    </tr>
-    <tr>
-        <td> 69 </td>
-        <td> 71 </td>
-        <td> Filtro de chamadas por temas e prioridades </td>
-        <td> 4 </td>
-        <td> ✖️ </td>
+        <td> 21 </td>
     </tr>
 </table>
 
