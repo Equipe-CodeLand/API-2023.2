@@ -8,11 +8,11 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 2° seme
 
 <h2> 📑 Sobre o Projeto </h2>
 
-O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxílio aos problemas relacionados a Internet Fixa, e busca aprimorar o sistema de Gerenciamento de Chamadas de Serviço. Nosso objetivo é que nossos clientes tenham acesso à soluções de seus problemas sobre Internet, de forma mais rápida e eficaz. 
+O sistema desenvolvido, chamado CallNet, é focado em fornecer auxílio aos problemas relacionados a Internet Fixa, e busca aprimorar o sistema de Gerenciamento de Chamadas de Serviço. Nosso objetivo é que nossos clientes tenham acesso à soluções de seus problemas sobre Internet, de forma mais rápida e eficaz. 
 
 <br>
 
-<h3> 📌 Status do projeto: Em andamento ⏳ </h3>
+<h3> 📌 Status do projeto: Concluído ✔️ </h3>
 
 <br>
 
