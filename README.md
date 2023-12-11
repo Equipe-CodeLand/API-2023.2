@@ -8,11 +8,11 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 2° seme
 
 <h2> 📑 Sobre o Projeto </h2>
 
-O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxílio aos problemas relacionados a Internet Fixa, e busca aprimorar o sistema de Gerenciamento de Chamadas de Serviço. Nosso objetivo é que nossos clientes tenham acesso à soluções de seus problemas sobre Internet, de forma mais rápida e eficaz. 
+O sistema desenvolvido, chamado CallNet, é focado em fornecer auxílio aos problemas relacionados a Internet Fixa, e busca aprimorar o sistema de Gerenciamento de Chamadas de Serviço. Nosso objetivo é que nossos clientes tenham acesso à soluções de seus problemas sobre Internet, de forma mais rápida e eficaz. 
 
 <br>
 
-<h3> 📌 Status do projeto: Em andamento ⏳ </h3>
+<h3> 📌 Status do projeto: Concluído ✔️ </h3>
 
 <br>
 
@@ -36,19 +36,13 @@ O sistema que será desenvolvido, chamado CallNet, é focado em fornecer auxíli
 
 <br>
 
-<h2> 🎯 MVP </h2>
-<h3> Este é O MVP do produto: </h3>
+<h2> 🎯 MVP 
 <h4> Visão do Cliente </h4>
-<h5> Visualizar soluções para problemas comuns, abertura e visualização de chamado: </h5>
-<img src="./docs/mvp_cliente.gif" width="600"/>
-<h4> Visão do Administrador </h4>
-<h5> Atribuição de atendente, relatórios analíticos, gerenciar soluções para problemas comuns e cadastro de cliente: </h5>
-<img src="./docs/mvp_adm.gif" width="600"/>
+<img src="docs/cliente_mvp.gif"/>
 <h4> Visão do Atendente </h4>
-<h5> Atendimento do chamado: </h5>
-<img src="./docs/mvp_atendente.gif" width="600"/>
-<p> </p>
-Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJsfpQN0jlbp/Protótipo-API-2023.2?type=design&node-id=0-1&mode=design&t=ux9UagAZET3VBtz0-0">aqui!</a>
+<img src="docs/atendente_mvp.gif"/>
+<h4> Visão do Administrador </h4>
+<img src="docs/adm_mvp.gif"/>
 
 <br>
 
@@ -59,7 +53,7 @@ Para acessar o Wireframe clique <a href="https://www.figma.com/file/LpX5SJ6WY8WJ
 |   01   | 04/09/2023 | 24/09/2023 | [Relatório](https://github.com/Equipe-CodeLand/API-2023.2/releases/tag/sprint-1)                                                                                 |    ✔️    |
 |   02   | 25/09/2023 | 15/10/2023 | [Relatório](https://github.com/Equipe-CodeLand/API-2023.2/releases/tag/sprint-2)                                                                                  |    ✔️    |
 |   03   | 16/10/2023 | 05/11/2023 | [Relatório](https://github.com/Equipe-CodeLand/API-2023.2/releases/tag/sprint-3)                                                                                 |    ✔️    |
-|   04   | 06/11/2023 | 26/11/2023 | ---                                                                                 |    ⏳    |
+|   04   | 06/11/2023 | 26/11/2023 | [Relatório](https://github.com/Equipe-CodeLand/API-2023.2/releases/tag/sprint-4)                                                                                 |    ✔️    |
 
 <br>
 
